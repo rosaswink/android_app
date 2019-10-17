@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Japanese 101</string>
+    <string-array name="options">
+        <item>a</item>
+        <item>ka</item>
+        <item>sa</item>
+        <item>ta</item>
+    </string-array>
+</resources>
